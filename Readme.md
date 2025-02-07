@@ -6,4 +6,6 @@
 
 • Necesidades básicas insatisfechas (N)
 
-En la práctica, el análisis del ADN Urbano se obtiene del entrecruzamiento de datos desagregados a nivel de radio censal. El indicador ADN Urbano se construye por adición de los resultados obtenidos para cada indicador por separado. Del cruce de los tres indicadores presentados resultan ocho posibles combinaciones entre ellos, construidas a partir de variables dicotómicas para cada dimensión: _con acceso aceptable / con bajo acceso_ a los servicios de agua de red y cloaca, poblacionalmente _densas / poco densas_, y _sin problemas de bienestar / con problemas de bienestar_. 
+En la práctica, el análisis del ADN Urbano se obtiene del entrecruzamiento de datos desagregados a nivel de radio censal. El indicador ADN Urbano se construye por adición de los resultados obtenidos para cada indicador por separado. Del cruce de los tres indicadores presentados resultan ocho posibles combinaciones entre ellos, construidas a partir de variables dicotómicas para cada dimensión: _con acceso aceptable / con bajo acceso_ a los servicios de agua de red y cloaca, poblacionalmente _densas / poco densas_, y _sin problemas de bienestar / con problemas de bienestar_:
+
+![Tipologías ADN Urbano](Tipologías.png)
