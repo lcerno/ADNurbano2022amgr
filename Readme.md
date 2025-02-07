@@ -12,4 +12,4 @@ En la práctica, el análisis del ADN Urbano se obtiene del entrecruzamiento de 
 
 Para lograr una lectura comprensible se adaptó el sistema de comunicación visual propuesto por Lanfranchi (2017, diapositiva 15), basado en el modelo de colores primarios de la luz, RGB (rojo, verde y azul, por sus iniciales en inglés). Se trata de un modelo basado en la síntesis aditiva de colores, con el que es posible representar un color mediante la mezcla por adición de los primarios, utilizado habitualmente para generar los colores que vemos en una pantalla digital: 
 
-![Combinaciones RGB según tipologías de ADN Urbano](Combinaciones RGB.png)
+![Combinaciones RGB según tipologías de ADN Urbano](Combinaciones_RGB.jpg)
