@@ -1,1 +1,1 @@
-ADN Urbano es una propuesta metodológica propuesta por Lanfranchi, Verdecchia y Bidart (2017)![image](https://github.com/user-attachments/assets/91ab1b9c-001e-48ef-80d6-f0b575c970e5)
+[ADN Urbano](https://www.cippec.org/wp-content/uploads/2017/01/183-DPP-PC2c-Urbano-del-AGBA2c-Gabriel-Lanfranchi2c-Enero-2017.pdf) es una propuesta metodológica propuesta por Lanfranchi, Verdecchia y Bidart (2017)
